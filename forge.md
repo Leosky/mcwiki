@@ -20,4 +20,4 @@ Each entry is a regex search value.
 *  ```version_checking {
     # Enable the entire mod update check system. This only applies to mods using the Forge system.
     B:Global=false
-}```
+	}```
