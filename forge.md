@@ -17,7 +17,7 @@ Each entry is a regex search value.
 *  ```B:disableVersionCheck=true```
 *  ```I:dimensionUnloadQueueDelay=120```
 *  ```B:alwaysSetupTerrainOffThread=true```
-*  ```version_checking {
+*  version_checking {
     # Enable the entire mod update check system. This only applies to mods using the Forge system.
     B:Global=false
 	}
