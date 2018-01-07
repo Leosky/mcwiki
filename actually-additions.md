@@ -12,3 +12,9 @@ Each entry is a regex search value.
 * ```machine values/S:Item Repairer Extra Whitelist``` : to add item to repairable item in the Item Repairer.
 * ```"tool control" {``` : This section containe all added tool, AIOT tools are a bit overpowered and others are useless ore too powerfull (Emeralds ones).
 * ```AIOT"= ``` : To search AIOT tools specificaly.
+
+## packdev
+### config
+* Disable all tools.
+* Lower Black Lotus and Rice amount
+* Disable lust caves
