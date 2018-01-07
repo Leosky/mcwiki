@@ -15,10 +15,10 @@ Each entry is a regex search value.
 
 ## packdev
 ### forge.cfg
-```B:disableVersionCheck=true```
-```I:dimensionUnloadQueueDelay=120```
-```B:alwaysSetupTerrainOffThread=true```
-```version_checking {
+```B:disableVersionCheck=true
+I:dimensionUnloadQueueDelay=120
+B:alwaysSetupTerrainOffThread=true
+version_checking {
     # Enable the entire mod update check system. This only applies to mods using the Forge system.
     B:Global=false
 	}```
