@@ -5,4 +5,4 @@
 ## Utilities
 
 ## UI Changes
-* [https://minecraft.curseforge.com/projects/applecore](AppleCore) : Add the nutrition and saturation of food in tooltip and display the saturation in the hunger bar.
+* [AppleCore](https://minecraft.curseforge.com/projects/applecore) : Add the nutrition and saturation of food in tooltip and display the saturation in the hunger bar.
